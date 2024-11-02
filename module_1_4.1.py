@@ -1,0 +1,7 @@
+name=input("вашзнак зодиака и ваше имя ")
+print("Здравствуйте,", name)
+print("Здравствуйте,", name.upper())
+print(name.lower())
+print(name.replace(" ",""))
+print(name [0])
+print(name [-1])
