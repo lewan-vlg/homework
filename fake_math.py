@@ -1,4 +1,4 @@
-def fake_divide(first, second):
+def divide(first, second):
     if second == 0:
         return 'Ошибка'
     else:
