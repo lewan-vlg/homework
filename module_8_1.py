@@ -1,6 +1,7 @@
 def add_everything_up(a, b):
     try:
-        return a + b
+        return round(a + b,3)
+
     except TypeError:
         return str(a) + str(b)
 
